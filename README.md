@@ -1,4 +1,4 @@
-# Chinese Restaurant Process: A study on the preferential-attachment dynamincs
+# Chinese Restaurant Process: A study on the preferential-attachment dynamics of networks
 
 Consider a (Chinese) restaurant with an infinite number of tables.
 Customers arrive at the restaurant one at a time t = 1, 2, . . . and food is so good that no one leaves.
