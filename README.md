@@ -13,7 +13,7 @@ The function **chinese_restaurant.m** simulates the Chinese restaurant process. 
 The script **main_.m** plots of the distribution of table size in log-log scale for T = 10,000 and p = 0.2, p = 0.5 and p = 0.7. The plots are given at the end of this document.
 
 ## Installation and Usage
-The scripts do not use any library beyond the default installations on MATLAB. Please run the **'main_.m'** script from the MATLAB interface, which will construct the desired plots. 
+The scripts do not use any library beyond the default installations on MATLAB. Please run the **main_.m** script from the MATLAB interface, which will construct the desired plots. 
 
 ## Outputs
 
