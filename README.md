@@ -1,4 +1,5 @@
-# Chinese Restaurant Process: A study on the preferential-attachment dynamics of networks
+# Chinese Restaurant ProcessT
+This is a study on the preferential-attachment dynamics of networks, using a toy rich-gets-richer scenario.
 
 ## Problem Statement
 Consider a (Chinese) restaurant with an infinite number of tables. Customers arrive at the restaurant one at a time at t = 1, 2, ... and the food is so good that no one leaves. Upon arrival, a new customer faces two choices: (i) with probability p she decides to open a new table; and (ii) otherwise (i.e., with probability 1 − p) she will join a table with k customers, with probability proportional to k. 
