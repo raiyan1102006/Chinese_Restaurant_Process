@@ -16,7 +16,8 @@ The script **main_.m** plots of the distribution of table size in log-log scale 
 The scripts do not use any library beyond the default installations on MATLAB. Please run the **'main_.m'** script from the MATLAB interface, which will construct the desired plots. 
 
 ## Outputs
-![](figures/fig1.jpg =150x150)
-<img src="figures/fig1.jpg" alt="drawing" width="200"/>
-![](figures/fig2.jpg)
-![](figures/fig3.jpg)
+
+<img src="figures/fig1.jpg" alt="drawing" width="500"/>
+<img src="figures/fig2.jpg" alt="drawing" width="500"/>
+<img src="figures/fig3.jpg" alt="drawing" width="500"/>
+
