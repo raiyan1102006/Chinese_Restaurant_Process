@@ -17,7 +17,7 @@ The scripts do not use any library beyond the default installations on MATLAB. P
 
 ## Outputs
 
-<img src="figures/fig1.jpg" alt="drawing" width="500"/>
-<img src="figures/fig2.jpg" alt="drawing" width="500"/>
-<img src="figures/fig3.jpg" alt="drawing" width="500"/>
+<img src="figures/fig1.jpg" alt="drawing" width="600"/>
+<img src="figures/fig2.jpg" alt="drawing" width="600"/>
+<img src="figures/fig3.jpg" alt="drawing" width="600"/>
 
